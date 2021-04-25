@@ -33,7 +33,7 @@ rsa==4.6
 ruamel-yaml==0.15.87
 six
 tf-slim
-tensorflow==1.14
+tensorflow==1.15
 termcolor==1.1.0
 tqdm
 typing-extensions==3.7.4.3
