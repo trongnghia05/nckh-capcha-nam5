@@ -1,0 +1,12 @@
+* cài đặt:
+-tensorflow == 1.14
+-python == 3.6
+- foder object_detection để cùng thư mục với file capcha_detect.py
+
+
+* Run: python capcha_detect.py "duong dan anh".
+ví dụ: python capcha_detect.py 22.png
+
+
+
+* Output: file capcha_detect.txt
