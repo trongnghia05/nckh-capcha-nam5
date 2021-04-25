@@ -34,7 +34,6 @@ requests-oauthlib==1.3.0
 rsa==4.6
 ruamel-yaml==0.15.87
 six
-flask_bootstrap
 tf-slim
 tensorflow==1.14
 termcolor==1.1.0
